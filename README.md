@@ -22,6 +22,8 @@ My commitment to excellence is matched only by my enthusiasm for collaborative c
 
 <br>
 
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarolinadeBrito&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+
 <h2 align="left">Connect with me</h2>
 
 
@@ -31,7 +33,7 @@ My commitment to excellence is matched only by my enthusiasm for collaborative c
 <br>
 
 
-<!-- ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarolinadeBrito&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)-->
+
 
  ### Hard skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
